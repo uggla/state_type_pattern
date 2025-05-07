@@ -1,0 +1,11 @@
+[package]
+name = "state_type_pattern"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+gag = "1.0.0"
+pretty_assertions = "1.4.1"
+assertables = "9.5.2"
